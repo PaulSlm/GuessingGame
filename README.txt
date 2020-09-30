@@ -1,0 +1,1 @@
+My next idea is to set up a loop so that the user can play a new game without restarting the script and also to setup a log of the best scores (the fewer tries)
